@@ -1,0 +1,19 @@
+{
+  "name": "NexusCS - Computer Science Mission Control",
+  "short_name": "NexusCS",
+  "description": "World-class CS Academic & Developer Task Command Center",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity", "utilities"]
+}
